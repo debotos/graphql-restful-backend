@@ -1,4 +1,4 @@
-# care-pine-home-health
+# graphql-restful-backend
 
 ```
 touch .env
@@ -9,7 +9,7 @@ Fill it with -
 ```
 # .env
 
-PROJECT_NAME=care-pine-home-health
+PROJECT_NAME=graphql-restful-backend
 
 # Set it to 'production' when deploying
 NODE_ENV=development
@@ -19,10 +19,10 @@ PORT=5000
 HOST_URL='http://localhost'
 
 # DB
-MONGO_DB_URI=mongodb://localhost/care-pine-home-health
+MONGO_DB_URI=mongodb://localhost/graphql-restful-backend
 
 POSTGRES_DATABASE_URL=
-POSTGRES_DATABASE=care-pine-home-health
+POSTGRES_DATABASE=graphql-restful-backend
 POSTGRES_DATABASE_USER=postgres
 POSTGRES_DATABASE_PASSWORD=
 

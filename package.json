@@ -1,5 +1,5 @@
 {
-	"name": "care-pine-home-health",
+	"name": "graphql-restful-backend",
 	"version": "1.0.0",
 	"main": "build/server.js",
 	"scripts": {
